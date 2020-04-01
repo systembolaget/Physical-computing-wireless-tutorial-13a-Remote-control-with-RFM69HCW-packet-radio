@@ -1,6 +1,6 @@
 # Physical computing wireless tutorial - Remote control with RFM69HCW packet radio
 
-RX/TX and control. How to easily pack different data-types in a struct and transmit them over several hundred metres
+TX/RX and control. How to easily pack different data-types in a struct and reliably transmit over several hundred metres
 
 ### Result
 
