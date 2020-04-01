@@ -28,7 +28,6 @@ Send, receive and control anything. How to easily pack different data-types in a
 €   1,00 Jumper cables
 €   2,00 1µF 10V el. cap, 100Ω, 1kΩ and 4,7kΩ resistors
 € 115,00
-
 </pre>  
 
 ### Useful links
