@@ -1,4 +1,4 @@
-# Physical computing wireless data transmission tutorial - Remote control with RFM69HCW packet radio
+# Physical computing wireless tutorial - Remote control with RFM69HCW packet radio
 
 Send, receive and control anything. How to easily pack different data-types in a struct and transmit them over several hundred metres
 
