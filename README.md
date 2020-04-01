@@ -1,6 +1,6 @@
 # Physical computing wireless tutorial - Remote control with RFM69HCW packet radio
 
-Easy Arduino TX/RX. How to pack different data-types in a struct and transmit them over several hundred metres
+Easy Arduino TX/RX. How to pack different data-types in a struct and transmit it over several hundred metres using RadioHead
 
 ### Result
 
