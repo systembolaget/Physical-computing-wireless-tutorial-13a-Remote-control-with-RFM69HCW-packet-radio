@@ -69,7 +69,7 @@ void setup()
   pinMode(pinServo, OUTPUT);
   // Initialise loudspeaker pin
   pinMode(pinSpeaker, OUTPUT);
-  // Initialise servo pin
+  // Initialise LED pin
   pinMode(pinLED, OUTPUT);
 }
 
