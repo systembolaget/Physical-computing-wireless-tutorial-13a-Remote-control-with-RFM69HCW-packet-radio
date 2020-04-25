@@ -32,7 +32,7 @@ Easy Arduino TX/RX. How to pack different data-types in a struct and transmit it
 
 ### Useful links
 
-μc https://www.adafruit.com/product/2590  
+μc https://www.adafruit.com/product/3176  
 RadioHead library https://www.airspayce.com/mikem/arduino/RadioHead/  
 Servo https://www.pololu.com/file/0J321/HD-1900A.pdf  
 Transistor https://www.onsemi.com/pub/Collateral/TIP120-D.PDF
