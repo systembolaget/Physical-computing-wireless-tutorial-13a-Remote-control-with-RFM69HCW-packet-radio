@@ -1,7 +1,8 @@
 // Tutorial 13a. (RX) Remote communication and control with RFM69HCW packet radio
 
 // Main parts: Adafruit Feather M0 RFM69HCW, Pololu HD-1900A servo,
-// momentary switch, 8 Ohm loudspeaker, ON Semiconductor TIP120, LED
+// CdS photoresistor, 10k trim potentiometer, momentary switch, LED,
+// 8 Ohm loudspeaker, ON Semiconductor TIP120
 
 // Libraries required to interface with the transceiver via SPI
 // and to manage TX/RX communication; use the latest versions
