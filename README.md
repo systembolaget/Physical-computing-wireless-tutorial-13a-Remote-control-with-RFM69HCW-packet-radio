@@ -2,9 +2,11 @@
 
 Easy Arduino TX/RX. How to pack different data-types in a struct and transmit it over several hundred metres using RadioHead
 
-### Result
+### Setup
 
-![](Assets/13a%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/13a%20result.jpg)](https://www.youtube.com/watch?v=_zGqXt-xKU8)
 
 ### Schematic
 
